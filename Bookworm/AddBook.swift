@@ -31,7 +31,7 @@ struct AddBook: View {
                         }
                     }
                 }
-                
+
                 Section {
                     TextEditor(text: $review)
                     
